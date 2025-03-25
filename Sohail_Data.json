@@ -1,0 +1,271 @@
+{
+  "bio": {
+    "summary": "Sohail Shriyan is a highly motivated and versatile individual who is always eager to take on new challenges.  He is passionate about learning and committed to producing high-quality work.  Sohail possesses a positive attitude and a growth mindset, enabling him to make meaningful contributions.",
+    "roles": [
+      "Graphic Designer",
+      "Video Editor",
+      "UI/UX Designer",
+      "Programmer",
+      "3D Artist"
+    ],
+    "questions": [
+      "Tell me about Sohail.",
+      "Who is Sohail Shriyan?",
+      "Who is Sohail?",
+      "What can you tell me about Sohail's background?",
+      "What are Sohail's roles?",
+      "What kind of work does Sohail do?",
+      "What are Sohail's key skills and interests?",
+      "How would you describe Sohail as an individual?",
+      "What are Sohail's aspirations?",
+      "What motivates Sohail?",
+      "What are Sohail's strengths and weaknesses?",
+      "How does Sohail approach challenges?",
+      "What is Sohail's work ethic like?",
+      "How does Sohail collaborate with others?",
+      "What kind of work environment does Sohail prefer?"
+    ],
+    "social_links": {
+      "github": "https://github.com/sohaild766",
+      "resume": "https://drive.google.com/file/d/1jGiKsb3zlNfbSCbzU4EOmOcMA6tFPpLh/view?usp=drive_link",
+      "linkedin": "https://www.linkedin.com/in/sohail-shriyan-b08229284/",
+      "x": "https://x.com/sohaild766",
+      "insta": "https://www.instagram.com/sohaild766/",
+      "facebook": "https://www.facebook.com/profile.php?id=100017218366566"
+    }
+  },
+  "skills": {
+    "graphic_design": {
+      "tools": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Canva",
+        "Adobe Express",
+        "Adobe Lightroom"
+      ],
+      "questions": [
+        "What graphic design software is Sohail skilled in?",
+        "What graphic design tools does Sohail use?",
+        "Is Sohail proficient in Photoshop?",
+        "Does Sohail have experience with Canva?",
+        "What are Sohail's graphic design strengths?",
+        "Tell me about Sohail's skills in graphic design.",
+        "What is Sohail's expertise in graphic design?",
+        "Is Sohail familiar with Adobe Illustrator?",
+        "Does Sohail use Adobe Lightroom?",
+        "What tools does Sohail use for graphic design projects?",
+        "What are some of the graphic design programs Sohail knows?",
+        "Is Sohail skilled in any graphic design applications?",
+        "What are Sohail's areas of expertise within graphic design?",
+        "What graphic design software is Sohail proficient with?"
+      ]
+    },
+    "video_editing": {
+      "tools": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects",
+        "DaVinci Resolve",
+        "Wondershare Filmora"
+      ],
+      "questions": [
+        "What video editing software does Sohail use?",
+        "Is Sohail experienced with Premiere Pro?",
+        "What are Sohail's video editing skills?",
+        "Tell me about Sohail's skills in video editing.",
+        "What is Sohail's expertise in video editing?",
+        "Is Sohail familiar with After Effects?",
+        "Does Sohail use DaVinci Resolve?",
+        "What tools does Sohail use for video editing projects?",
+        "What are some of the video editing programs Sohail knows?",
+        "Is Sohail skilled in any video editing applications?",
+        "What are Sohail's areas of expertise within video editing?",
+        "What video editing software is Sohail proficient with?"
+      ]
+    },
+    "3d_modeling": {
+      "tools": [
+        "3ds Max",
+        "Blender",
+        "Maya",
+        "Adobe Substance 3D Painter",
+        "ZBrush",
+        "Mudbox"
+      ],
+      "questions": [
+        "What 3D modeling software does Sohail use?",
+        "Is Sohail skilled in Blender?",
+        "What are Sohail's 3D modeling skills?",
+        "Tell me about Sohail's skills in 3D modeling.",
+        "What is Sohail's expertise in 3D modeling?",
+        "Is Sohail familiar with Maya?",
+        "Does Sohail use ZBrush?",
+        "What tools does Sohail use for 3D modeling projects?",
+        "What are some of the 3D modeling programs Sohail knows?",
+        "Is Sohail skilled in any 3D modeling applications?",
+        "What are Sohail's areas of expertise within 3D modeling?",
+        "What 3D modeling software is Sohail proficient with?"
+      ]
+    },
+    "programming": {
+      "tools": [
+        "Java",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Google Colab"
+      ],
+      "questions": [
+        "What programming languages does Sohail know?",
+        "Is Sohail proficient in Python?",
+        "What are Sohail's programming skills?",
+        "Tell me about Sohail's skills in programming.",
+        "What is Sohail's expertise in programming?",
+        "Is Sohail familiar with Java?",
+        "Does Sohail use JavaScript?",
+        "What tools does Sohail use for programming projects?",
+        "What are some of the programming languages Sohail knows?",
+        "Is Sohail skilled in any programming applications?",
+        "What are Sohail's areas of expertise within programming?",
+        "What programming languages is Sohail proficient with?"
+      ]
+    },
+    "ui_ux_design": {
+      "tools": [
+        "VS Code",
+        "Adobe XD",
+        "Figma"
+      ],
+      "questions": [
+        "What UI/UX design tools does Sohail use?",
+        "Is Sohail experienced with Figma?",
+        "What are Sohail's UI/UX design skills?",
+        "Tell me about Sohail's skills in UI/UX design.",
+        "What is Sohail's expertise in UI/UX design?",
+        "Is Sohail familiar with Adobe XD?",
+        "Does Sohail use VS Code?",
+        "What tools does Sohail use for UI/UX design projects?",
+        "What are some of the UI/UX design programs Sohail knows?",
+        "Is Sohail skilled in any UI/UX design applications?",
+        "What are Sohail's areas of expertise within UI/UX design?",
+        "What UI/UX design software is Sohail proficient with?"
+      ]
+    }
+  },
+  "achievements": [
+    {
+      "id": 0,
+      "img": "https://www.vivek-college.org/Content/Schools/VES/img/college_logo.png",
+      "school": "Vivek College of Commerce, Goregoan-west",
+      "date": "Jun 2020 - Mar 2025",
+      "grade": "?? CGPA",
+      "desc": "Currently pursuing a Bachelor of Science in Information Technology at Vivek College of Commerce, Goregoan-west.",
+      "degree": "Bachelor of Science in Information Technology",
+      "type": "education"
+    },
+    {
+      "id": 1,
+      "img": "https://images.uniapply.com/uploads/college/image/logo/4810/Logo_UA_210412_154019.jpg",
+      "school": "Sardar Vallabhbhai Patel Vidyalaya and Jr. College",
+      "date": "Jun 2018 - Apr 2020",
+      "grade": "77%",
+      "desc": "Completed class 12 high school education at Sardar Vallabhbhai Patel Vidyalaya and Jr. College, where I studied Science with Information Technology.",
+      "degree": "HSC(XII), Science with Information Technology",
+      "type": "education"
+    },
+    {
+      "id": 2,
+      "img": "https://www.sfsborivali.com/wp-content/uploads/2023/03/logo-2.png",
+      "school": "St.Francis D'Assisi High School, Borivali-west",
+      "date": "Jun 2013 - Apr 2018",
+      "grade": "62%",
+      "desc": "Completed class 10 education at St.Francis D'Assisi High School, Borivali-west where I studied Science with Computer Application.",
+      "degree": "SSC(X)",
+      "type": "education"
+    },
+    {
+      "id": 3,
+      "title": "Image Restoration",
+      "company": "Freelance",
+      "date": "Jan 2023 - Feb 2023",
+      "description": "A faded, black-and-white photograph with yellowing edges and small tears is meticulously restored to its original state.",
+      "image": "https://static.vecteezy.com/system/resources/previews/047/750/137/non_2x/logo-for-freelancer-and-illustration-art-eps-vector.jpg",
+      "skills": [
+        "Adobe Photoshop",
+        "Canva"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 4,
+      "title": "Digital Art",
+      "company": "MAAC #24fps",
+      "date": "Sept 2023 - Nov 2023",
+      "description": "A vibrant digital painting of an old Indian monk with a radiant aura.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04d55T5KwvERnn_yN0Csyyu0W6MIsVF22cg&s",
+      "skills": [
+        "Adobe Photoshop",
+        "Canva"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 5,
+      "title": "Thumbnail Editor",
+      "company": "Prathamesh Creations",
+      "date": "Aug 2024 - Aug 2024",
+      "description": "A feature that allows you to add guest photos to thumbnails, with easy-to-use cropping and masking tools.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkFlfV-El1MuNszhsebfgN-9v5WFL3vihM_g&s",
+      "skills": [
+        "Adobe Lightroom",
+        "Adobe Photoshop",
+        "Canva"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 6,
+      "title": "Video Editor",
+      "company": "Prathamesh Creations",
+      "date": "June 2024 - July 2024",
+      "description": "Easily arrange multi-cam video feeds for interview-style podcasts, enabling you to switch between speaker views, split screens, or picture-in-picture layouts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkFlfV-El1MuNszhsebfgN-9v5WFL3vihM_g&s",
+      "skills": [
+        "Adobe After Effects",
+        "Adobe Premiere Pro",
+        "Adobe Media Encoder"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 7,
+      "title": "3D Modeling and Texturing",
+      "company": "MAAC (Utkarsh)",
+      "date": "Mar 2024 - Jun 2024",
+      "description": "A sleek, minimalist living room with clean lines and a monochromatic color palette.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04d55T5KwvERnn_yN0Csyyu0W6MIsVF22cg&s",
+      "skills": [
+        "Autodesk 3Ds Max",
+        "Photoshop"
+      ],
+      "type": "work"
+    },
+    {
+      "id": 8,
+      "title": "3D Modeling and Texturing",
+      "company": "Gakarot Creations",
+      "date": "May 2024 - Present",
+      "description": "A medieval shield model with realistic damage and wear from countless battles.",
+      "image": "https://www.stickitup.xyz/cdn/shop/products/444.jpg?v=1622360513",
+      "skills": [
+        "Autodesk Maya",
+        "Photoshop",
+        "Adobe Substance 3D Painter",
+        "Mudbox",
+        "ZBrush",
+        "Blender"
+      ],
+      "type": "work"
+    }
+  ]
+}

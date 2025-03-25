@@ -1,0 +1,4 @@
+chatbot-env 
+__pycache__/ 
+*.pkl 
+*.log 
